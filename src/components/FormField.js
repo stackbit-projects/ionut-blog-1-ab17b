@@ -52,7 +52,7 @@ export default class FormField extends React.Component {
                 return (
                     <div className="form-group">
                         {label && <label htmlFor={name}>{label}</label>}
-                        <input type={inputType} name={name} id={name} {...(defaultValue ? { placeholder: defaultValue } : null)} {...attr} />
+                         
                     </div>
                 );
         }
