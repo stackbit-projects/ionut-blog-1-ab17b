@@ -25,7 +25,7 @@ sections:
         options:
           - Good
           - Bravo
-          - Other
+          - Altceva
       - input_type: textarea
         name: message
         label: Message
