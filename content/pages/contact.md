@@ -24,7 +24,7 @@ sections:
         default_value: Selectati va rog
         options:
           - Good
-          - Sponsorship
+          - Bravo
           - Other
       - input_type: textarea
         name: message
