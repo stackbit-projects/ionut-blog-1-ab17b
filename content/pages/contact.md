@@ -21,7 +21,7 @@ sections:
       - input_type: select
         name: subject
         label: Subiect
-        default_value: Please select
+        default_value: Selectati va rog
         options:
           - Error on the site
           - Sponsorship
